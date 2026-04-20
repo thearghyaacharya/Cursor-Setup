@@ -190,38 +190,26 @@ This research is a foundation to build a **repeatable outbound playbook**, inclu
 - Feedback loops between outreach → response → refinement
 
 ---
-## What Comes Next
 
-Once the research phase is complete, the collected material will be synthesized into a cold outreach playbook covering:
+  ## What's Inside
 
-- ICP definition and list building
-- Sending infrastructure setup (domains, warm-up, deliverability)
-- Copy frameworks and personalization systems
-- Sequence design and follow-up logic
-- Tool stack recommendations
-- Measurement: what to track and what benchmarks to aim for
+The research phase is complete and has been synthesized into a full Playbook / SOP:
 
-  
-## Final Note
+📄 [Cold Outreach Playbook — View Here](./playbook/cold-outreach-sop.md)
 
-This project is not about collecting content.
-
-It’s about understanding:
-- what actually drives responses
-- what converts attention into pipeline
-- and how to build systems that scale it
-
----
-
-## Setup Completed (Step 1)
-
-*For reference: this project builds on the environment setup from Step 1.*
-
-- Cursor IDE installed
-- Claude Code extension installed and authenticated
-- Codex extension installed and authenticated
-- GitHub repository created and connected
-- README.md committed and pushed
+The playbook covers:
+- ICP definition and tiered account model
+- Infrastructure setup (domains, warm-up, inbox rotation, authentication)
+- List building and trigger-based targeting
+- Copy frameworks and AI personalization workflow
+- 21-day multi-channel sequence architecture
+- Reply management and nurture systems
+- Measurement, A/B testing, and iteration protocol
+- Where experts disagree — and which side I take
+- What I rejected and why
+- One original idea not found in any source
+- Honest weaknesses of the playbook
+- Who I would not recommend following and why
 
 ---
 
